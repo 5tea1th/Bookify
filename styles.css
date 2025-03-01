@@ -1,0 +1,26 @@
+.btn:focus,
+.btn:active,
+.btn:focus-visible {
+  box-shadow: none;
+  outline: none;
+}
+
+.btn {
+  border: 1px solid grey;
+}
+
+#cart-section {
+  margin-top: 80px !important;
+  padding-top: 50px;
+}
+
+.cart-header {
+  margin-bottom: 20px;
+}
+
+.cart-divider {
+  width: 80px;
+  height: 1px;
+  background-color: #000;
+  margin: 5px auto 20px;
+}
